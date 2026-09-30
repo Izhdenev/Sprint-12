@@ -1,4 +1,4 @@
-module .github/Izhdenev/Sprint-12
+module github.com/Izhdenev/Sprint-12
 
 go 1.26.2
 
